@@ -1,0 +1,54 @@
+==================================================================
+https://keybase.io/rostved
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://rostved.dk
+  * I am rostved (https://keybase.io/rostved) on keybase.
+  * I have a public key ASAQxdgV3P_sRUevHbKWcw4yWfeJFsbf9wqqP6gWQ5vyPQo
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "012010c5d815dcffec4547af1db296730e3259f78916c6dff70aaa3fa816439bf23d0a",
+            "host": "keybase.io",
+            "kid": "012010c5d815dcffec4547af1db296730e3259f78916c6dff70aaa3fa816439bf23d0a",
+            "uid": "7eef23a540e1416f71fee34cdc580819",
+            "username": "rostved"
+        },
+        "service": {
+            "hostname": "rostved.dk",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "client": {
+        "name": "keybase.io go client",
+        "version": "1.0.13"
+    },
+    "ctime": 1463649481,
+    "expire_in": 504576000,
+    "merkle_root": {
+        "ctime": 1463649173,
+        "hash": "b14a2d8d9efcd5ba5a701270c63483b340b8b567eea07c7e8f9111652512827723acf8c158076eba9ad2ca9d38b2315c8cc79119128871b6cd87e437bdcdbb58",
+        "seqno": 467233
+    },
+    "prev": "b8be2953b71f2dae001453c50ed8056e56b263e57982837888cf65c0138f78d1",
+    "seqno": 7,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+g6Rib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgEMXYFdz/7EVHrx2ylnMOMln3iRbG3/cKqj+oFkOb8j0Kp3BheWxvYWTFAvB7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTIwMTBjNWQ4MTVkY2ZmZWM0NTQ3YWYxZGIyOTY3MzBlMzI1OWY3ODkxNmM2ZGZmNzBhYWEzZmE4MTY0MzliZjIzZDBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwMTBjNWQ4MTVkY2ZmZWM0NTQ3YWYxZGIyOTY3MzBlMzI1OWY3ODkxNmM2ZGZmNzBhYWEzZmE4MTY0MzliZjIzZDBhIiwidWlkIjoiN2VlZjIzYTU0MGUxNDE2ZjcxZmVlMzRjZGM1ODA4MTkiLCJ1c2VybmFtZSI6InJvc3R2ZWQifSwic2VydmljZSI6eyJob3N0bmFtZSI6InJvc3R2ZWQuZGsiLCJwcm90b2NvbCI6Imh0dHA6In0sInR5cGUiOiJ3ZWJfc2VydmljZV9iaW5kaW5nIiwidmVyc2lvbiI6MX0sImNsaWVudCI6eyJuYW1lIjoia2V5YmFzZS5pbyBnbyBjbGllbnQiLCJ2ZXJzaW9uIjoiMS4wLjEzIn0sImN0aW1lIjoxNDYzNjQ5NDgxLCJleHBpcmVfaW4iOjUwNDU3NjAwMCwibWVya2xlX3Jvb3QiOnsiY3RpbWUiOjE0NjM2NDkxNzMsImhhc2giOiJiMTRhMmQ4ZDllZmNkNWJhNWE3MDEyNzBjNjM0ODNiMzQwYjhiNTY3ZWVhMDdjN2U4ZjkxMTE2NTI1MTI4Mjc3MjNhY2Y4YzE1ODA3NmViYTlhZDJjYTlkMzhiMjMxNWM4Y2M3OTExOTEyODg3MWI2Y2Q4N2U0MzdiZGNkYmI1OCIsInNlcW5vIjo0NjcyMzN9LCJwcmV2IjoiYjhiZTI5NTNiNzFmMmRhZTAwMTQ1M2M1MGVkODA1NmU1NmIyNjNlNTc5ODI4Mzc4ODhjZjY1YzAxMzhmNzhkMSIsInNlcW5vIjo3LCJ0YWciOiJzaWduYXR1cmUifaNzaWfEQFdNMkVRftrCccxuX+M7pGXbw3rlAeDRxWkOKZJZl3okMZwdpIu9SWf0rbYTRSIjcf14OYqmfkVJnXVyLMoLZg6oc2lnX3R5cGUgo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/rostved
+
+==================================================================
